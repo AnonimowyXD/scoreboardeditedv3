@@ -9,6 +9,8 @@ DZIAŁANIE
 [4] Gracz widzi admina na kolor żólty
 
 [*] DODANO EXPORT PRAC ONLINE
+[-] ZDJĘCIE ZE WCZEŚNIEJSZEJ WERSJI AKTUALNA WERSJA RÓŻNI SIĘ W DUŻYM STOPNI OD POPRZEDNIEJ
+[-] SHOW: https://media.discordapp.net/attachments/718185841205182525/788916817245896764/unknown.png?width=973&height=635
 
 [//ENG]
 The table of players modeled on the Polish server WyspaRP
@@ -21,3 +23,5 @@ ACTION
 
 
 [*] ONLINE JOB EXPORT ADDED
+[-] PICTURE FROM PREVIOUS VERSION THE CURRENT VERSION IS MUCH DIFFERENT FROM THE PREVIOUS VERSION
+[-] SHOW: https://media.discordapp.net/attachments/718185841205182525/788916817245896764/unknown.png?width=973&height=635
